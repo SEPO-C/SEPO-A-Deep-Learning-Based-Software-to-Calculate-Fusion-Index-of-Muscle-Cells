@@ -16,11 +16,10 @@ This application detecting cells in images to assess the progress of cell synthe
 ## Process
 ### 1.Image load
 - Click the [Open Folder] button - load images from the file path
-
 ### 2.Detection
-
-### 3.결과 추출
-
+- Click the [Color Detection] button - Detection is performed on the image and the results are displayed on the right panel.
+### 3.Extract results
+- When performing image dection, the results are saved as a csv file.
 ## Installation
 (exe파일 다운로드 링크)
 ## Contribute
