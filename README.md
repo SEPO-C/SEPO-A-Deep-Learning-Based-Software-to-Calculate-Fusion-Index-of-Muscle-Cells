@@ -14,7 +14,7 @@ This application detecting cells in images to assess the progress of cell synthe
 - Perform detection by specific image
 
 ## Process
-### 1.이미지 로드
+### 1.Image load
 - Click the [Open Folder] button - load images from the file path
 
 ### 2.Detection
