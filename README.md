@@ -4,7 +4,7 @@ This application detecting cells in images to assess the progress of cell synthe
 
 (어플리케이션 개발 이유 : 배양육 재배 과정에서 세포 갯수 및 퓨전 인덱스 중요성)
 
-(탐지 및 분류 알고리즘)
+(탐지 및 분류 알고리즘, 겹치는 세포 구분 방법)
 
 (프로그램이 포함하는 funtion들)
 
