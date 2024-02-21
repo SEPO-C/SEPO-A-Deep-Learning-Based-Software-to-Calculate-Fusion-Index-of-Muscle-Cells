@@ -22,5 +22,5 @@ This application detecting cells in images to assess the progress of cell synthe
 ### 3.Extract results
 - When performing image dection, the results are saved as a csv file.
 ## Installation
-(exe파일 다운로드 링크)
+Download exe [here](https://drive.google.com/file/d/1aDF72Uoa4vq_kG-4fzViry52TYHmjfSW/view?usp=drive_link)
 ## Contribute
