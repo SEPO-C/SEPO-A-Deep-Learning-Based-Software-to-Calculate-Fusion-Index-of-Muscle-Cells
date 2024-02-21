@@ -10,7 +10,13 @@ This application detecting cells in images to assess the progress of cell synthe
 ## Features
 (프로그램이 포함하는 funtion들)
 
-(프로그램 실행 과정) 
+(프로그램 실행 과정)
+### 1.이미지 로드
+
+### 2.Detection
+
+### 3.결과 추출
+
 ## Installation
 (exe파일 다운로드 링크)
 ## Contribute
