@@ -12,4 +12,5 @@ This application detecting cells in images to assess the progress of cell synthe
 
 (프로그램 실행 과정) 
 ## Installation
+(exe파일 다운로드 링크)
 ## Contribute
