@@ -8,13 +8,11 @@ This application detecting cells in images to assess the progress of cell synthe
 
 (겹치는 세포를 구분하는 알고리즘)
 ## Features
-(프로그램이 포함하는 funtion들)
 ![cell detection program structure_eng](https://github.com/SEPO-C/SEPO-C-application/assets/49020136/f72a9104-fea1-4748-b3fc-cd4e3b4a4e09)
 - Cell detection based on color (HSV value)
 - Cell In/Out classsfication based on learned AI model
 - Perform detection by specific image
 
-(프로그램 실행 과정)
 ### 1.이미지 로드
 
 ### 2.Detection
