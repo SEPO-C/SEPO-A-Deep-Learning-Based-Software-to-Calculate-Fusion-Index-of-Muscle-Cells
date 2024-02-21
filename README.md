@@ -20,7 +20,6 @@ This application detecting cells in images to assess the progress of cell synthe
 - Click the [Color Detection] button - Detection is performed on the image and the results are displayed on the right panel.
 ### 3.Extract results
 - When performing image dection, the results are saved as a csv file.
-![image](https://github.com/SEPO-C/SEPO-C-application/assets/49020136/6607edfa-f247-467e-aca7-f5eec7b26596)
 ## Installation
 (exe파일 다운로드 링크)
 ## Contribute
