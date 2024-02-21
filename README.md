@@ -9,6 +9,8 @@ This application detecting cells in images to assess the progress of cell synthe
 (겹치는 세포를 구분하는 알고리즘)
 ## Features
 (프로그램이 포함하는 funtion들)
+![Detection_Program_UI](https://github.com/SEPO-C/SEPO-C-application/assets/49020136/db68e84e-2255-4ed9-8f06-44a2dc24e8df)
+(예시 이미지)
 
 (프로그램 실행 과정)
 ### 1.이미지 로드
