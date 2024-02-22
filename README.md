@@ -16,7 +16,7 @@ Fusion index is a method for determining muscle cell myotubule formation.
 - Click the [Open Folder] button - load images from the file path
 ### 2.Detection
 - Click the [Color Detection] button - Detection is performed on the image and the results are displayed on the right panel.
-- The right panel displays the number of cells on myotube(“In” class), the number of cells outside myotube(“Out” class),the total number of cells, and the Fusion Index.
+- The right panel displays the number of cells on myotube('IN' class), the number of cells outside myotube('OUT' class),the total number of cells, and the Fusion Index.
 ### 3.Extract results
 - When performing image dection, the results are saved as a csv file.
 
