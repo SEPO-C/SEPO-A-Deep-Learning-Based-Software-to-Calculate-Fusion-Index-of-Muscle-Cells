@@ -9,11 +9,6 @@ Fusion index is a method for determining muscle cell myotubule formation.
 (탐지 및 분류 알고리즘)
 
 (겹치는 세포를 구분하는 알고리즘)
-## Features
-![cell detection program structure_eng](https://github.com/SEPO-C/SEPO-C-application/assets/49020136/f72a9104-fea1-4748-b3fc-cd4e3b4a4e09)
-- Cell detection based on color (HSV value)
-- Cell In/Out classsfication based on learned AI model
-- Perform detection by specific image
 
 ## Process
 ![SEPO-C 3](https://github.com/SEPO-C/SEPO-C-application/assets/49020136/293c4eba-1335-4694-b705-86004d443cbf)
@@ -23,6 +18,13 @@ Fusion index is a method for determining muscle cell myotubule formation.
 - Click the [Color Detection] button - Detection is performed on the image and the results are displayed on the right panel.
 ### 3.Extract results
 - When performing image dection, the results are saved as a csv file.
+  
+## Features
+![cell detection program structure_eng](https://github.com/SEPO-C/SEPO-C-application/assets/49020136/f72a9104-fea1-4748-b3fc-cd4e3b4a4e09)
+- Cell detection based on color (HSV value)
+- Cell In/Out classsfication based on learned AI model
+- Perform detection by specific image
+
 ## Installation
 Download [here](https://docs.google.com/uc?export=download&id=1aDF72Uoa4vq_kG-4fzViry52TYHmjfSW&confirm=t)
 ## Contribute
