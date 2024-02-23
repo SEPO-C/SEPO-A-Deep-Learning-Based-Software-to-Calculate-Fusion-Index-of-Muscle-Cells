@@ -26,6 +26,15 @@ Fusion index is a method for determining muscle cell myotubule formation.
 - Cell In/Out classsfication based on learned AI model
 - Perform detection by specific image
 
+## Requirements
+- Pytorch
+- PyQt5
+- Numpy
+- OpenCV
+
 ## Installation
-Download [here](https://docs.google.com/uc?export=download&id=1aDF72Uoa4vq_kG-4fzViry52TYHmjfSW&confirm=t)
-## Contribute
+Download exe file [here](https://docs.google.com/uc?export=download&id=1aDF72Uoa4vq_kG-4fzViry52TYHmjfSW&confirm=t) from Goolge drive
+
+
+## Contact Us
+If you have any questions or provide your cell images, please contact us by email(gc.jo-isw@chungbuk.ac.kr).
