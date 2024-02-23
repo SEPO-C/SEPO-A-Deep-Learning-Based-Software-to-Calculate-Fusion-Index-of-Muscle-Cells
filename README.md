@@ -37,4 +37,4 @@ Download exe file [here](https://docs.google.com/uc?export=download&id=1aDF72Uoa
 
 
 ## Contact Us
-If you have any questions or provide your cell images, please contact us by email(gc.jo-isw@chungbuk.ac.kr).
+If you have any questions or provide your cell images, please contact us by email(kc.jeong-isw@chungbuk.ac.kr, gc.jo-isw@chungbuk.ac.kr).
