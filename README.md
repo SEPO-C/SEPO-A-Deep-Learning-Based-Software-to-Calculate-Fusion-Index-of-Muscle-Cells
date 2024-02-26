@@ -30,10 +30,10 @@ Fusion index is a method for determining muscle cell myotubule formation.
 - Perform detection by specific image
 
 ## Requirements
-- Pytorch
-- PyQt5
-- Numpy
-- OpenCV
+- Pytorch 1.21.xx
+- PyQt5 5.15.xx
+- Numpy 1.23.xx
+- OpenCV 4.9.xx
 
 ## Installation
 Download exe file [here](https://docs.google.com/uc?export=download&id=1aDF72Uoa4vq_kG-4fzViry52TYHmjfSW&confirm=t) from Goolge drive
