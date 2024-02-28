@@ -28,7 +28,9 @@ Fusion index is a method for determining muscle cell myotubule formation.
 - Cell detection based on color (HSV value)
 - Cell In/Out classsfication based on learned AI model
 - Perform detection by specific image
-
+- Image display
+![zoom image](https://github.com/SEPO-C/SEPO-C-application/assets/49020136/d795db92-618f-4a71-8991-8f81bd1fb230)
+The detected images are displayed by boxes and can be zoomed using the controls + mouse wheel or bar at the bottom.
 ## Requirements
 - Pytorch 1.21.xx
 - PyQt5 5.15.xx
