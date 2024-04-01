@@ -1,4 +1,4 @@
-# SEPO-C-application
+# SEPO-CMR-application
 ## Introduction
 This application detecting cells in images to assess the progress of cell synthesis during the cultured meat process.
 
@@ -24,7 +24,6 @@ Fusion index is a method for determining muscle cell myotubule formation.
 ###
 
 ## Features
-![cell detection program structure_eng](https://github.com/SEPO-C/SEPO-C-application/assets/49020136/f72a9104-fea1-4748-b3fc-cd4e3b4a4e09)
 - Cell detection based on color (HSV value)
 - Cell In/Out classsfication based on learned AI model
 - Perform detection by specific image
