@@ -1,6 +1,12 @@
 # SEPO-CMR-application
+
 ## Introduction
-This application detecting cells in images to assess the progress of cell synthesis during the cultured meat process.
+This software is designed to count and classify the nuclei of muscle cells, with the aim of calculating the fusion index of cultured meat, ultimately demonstrating the application’s relevance in both the biological and biomedical research fields. In
+
+\begin{equation}
+\text{Fusion Index} = \frac{N_{\text{In}}}{N_{\text{In}} + N_{\text{Out}}}
+\label{eq:fusion_index}
+\end{equation}
 
 (어플리케이션 개발 이유 : 배양육 재배 과정에서 세포 갯수 및 퓨전 인덱스 중요성)
 ### Fusion Index
@@ -10,6 +16,10 @@ Fusion index is a method for determining muscle cell myotubule formation.
 ![Overview_Version2](https://github.com/SEPO-C/SEPO-C-application/assets/49020136/ddcd7671-cb5b-408a-a641-1bf20b935e42)
 
 (겹치는 세포를 구분하는 알고리즘)
+
+
+## Installation
+Download exe file [here](https://docs.google.com/uc?export=download&id=1aDF72Uoa4vq_kG-4fzViry52TYHmjfSW&confirm=t) from Goolge drive
 
 ## Process
 ![SEPO-C 3](https://github.com/SEPO-C/SEPO-C-application/assets/49020136/293c4eba-1335-4694-b705-86004d443cbf)
@@ -35,9 +45,6 @@ The detected images are displayed by boxes and can be zoomed using the controls 
 - PyQt5 5.15.xx
 - Numpy 1.23.xx
 - OpenCV 4.9.xx
-
-## Installation
-Download exe file [here](https://docs.google.com/uc?export=download&id=1aDF72Uoa4vq_kG-4fzViry52TYHmjfSW&confirm=t) from Goolge drive
 
 
 ## Contact Us
