@@ -6,7 +6,7 @@ This software is designed for counting and classifying muscle cell nuclei to cal
 - **Nuclei Counting:** Counts total number of cell nuclei.
 - **Classification:** Determines whether nuclei are inside (In) or outside (Out) the myotubes.
 - **Fusion Index Calculation:** Automatically computes the fusion index, a critical measure of cultured muscle cell maturity and development.
-  ![CodeCogsEqn](https://github.com/SEPO-CMR/SEPO-CMR-Software-based-Evaluation-PrOcess-for-Cultured-Meat-Research/assets/49019857/7de8da54-8527-4b4b-9186-89211399f89a)  
+  $$\text{Fusion Index} = \frac{N_{\text{In}}}{N_{\text{In}} + N_{\text{Out}}}$$
 - **Streamlined Evaluation:** Enhances research efficiency by automating the fusion index evaluation process.
 ![Fig 10  SEPO-C](https://github.com/SEPO-CMR/SEPO-CMR-Software-based-Evaluation-PrOcess-for-Cultured-Meat-Research/assets/49019857/b1b5a44c-fe50-44a1-b7b2-4186b911fc2d)
 
@@ -29,7 +29,7 @@ Follow these steps to operate the software:
   - Fusion Index.
 
 ### 3. Extract Results
-- Detection results are automatically saved as a CSV file.
+- Detection results are saved when the `[Export CSV]` button is pressed, exporting the evaluation outcomes to a CSV file.
 
 ## Application Requirements
 Ensure the following dependencies are installed to utilize this software optimally:
