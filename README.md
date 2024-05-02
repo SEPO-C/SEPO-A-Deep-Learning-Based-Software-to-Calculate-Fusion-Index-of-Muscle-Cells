@@ -12,8 +12,7 @@ This software is designed for counting and classifying muscle cell nuclei to cal
 
 ## Installation
 Download the executable file from Google Drive:
-- [Download exe file here](https://docs.google.com/uc?export=download&id=1aDF72Uoa4vq_kG-4fzViry52TYHmjfSW&confirm=t)
-
+- [Download exe file here](https://docs.google.com/uc?export=download&id=1M9yUcMNlvRuqou5VnMbUmXeAoLGSH_O1&confirm=t)
 ## How to Use
 Follow these steps to operate the software:
 
