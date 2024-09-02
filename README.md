@@ -45,7 +45,7 @@ Ensure the following dependencies are installed to utilize this software optimal
 ## Features
 - Cell detection based on color (HSV value)
 - Cell In/Out classsfication based on learned AI model
-  ![Model Architecture-Final](https://github.com/SEPO-CMR/SEPO-CMR-Software-based-Evaluation-PrOcess-for-Cultured-Meat-Research/assets/49019857/4863b4b9-b03d-47ed-99d1-13be2362a767)
+  ![Fig 8  Step 2  CNN model](https://github.com/user-attachments/assets/81392ca5-13ff-4c4c-a2d5-2784c5389409)
 - Image display
   - The detected images are displayed by boxes and can be zoomed using the controls + mouse wheel or bar at the bottom.
   ![zoom image](https://github.com/SEPO-C/SEPO-C-application/assets/49020136/d795db92-618f-4a71-8991-8f81bd1fb230)
