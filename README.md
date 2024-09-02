@@ -1,5 +1,4 @@
-# SEPO-CMR Application: A Deep Learning-Based Software to Calculate Muscle Cell Fusion Index in Cultured Meat Research
-
+# SEPO application: A Deep Learning-Based Software to Calculate Fusion Index of Muscle Cells
 ## Introduction
 This software is designed for counting and classifying muscle cell nuclei to calculate the fusion index, highlighting its importance in biological and biomedical research.
 
@@ -8,7 +7,8 @@ This software is designed for counting and classifying muscle cell nuclei to cal
 - **Fusion Index Calculation:** Automatically computes the fusion index, a critical measure of cultured muscle cell maturity and development.
   $$\text{Fusion Index} = \frac{N_{\text{In}}}{N_{\text{In}} + N_{\text{Out}}}$$
 - **Streamlined Evaluation:** Enhances research efficiency by automating the fusion index evaluation process.
-![Fig 10  SEPO-C](https://github.com/SEPO-CMR/SEPO-CMR-Software-based-Evaluation-PrOcess-for-Cultured-Meat-Research/assets/49019857/b1b5a44c-fe50-44a1-b7b2-4186b911fc2d)
+![Fig 10  SEPO-C](https://github.com/user-attachments/assets/22b89fdb-d967-4aef-9240-cdede2c39907)
+
 
 ## Installation
 Download the executable file from Google Drive:
