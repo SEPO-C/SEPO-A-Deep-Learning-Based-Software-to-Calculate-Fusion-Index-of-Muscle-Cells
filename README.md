@@ -1,4 +1,4 @@
-# SEPO application: A Deep Learning-Based Software to Calculate Fusion Index of Muscle Cells
+# SEPO_FI application: A Deep Learning-Based Software to Calculate Fusion Index of Muscle Cells
 ## Introduction
 This software is designed for counting and classifying muscle cell nuclei to calculate the fusion index, highlighting its importance in biological and biomedical research.
 
