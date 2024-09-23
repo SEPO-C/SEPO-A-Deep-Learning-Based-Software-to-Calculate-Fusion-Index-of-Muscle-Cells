@@ -7,7 +7,8 @@ This software is designed for counting and classifying muscle cell nuclei to cal
 - **Fusion Index Calculation:** Automatically computes the fusion index, a critical measure of cultured muscle cell maturity and development.
   $$\text{Fusion Index} = \frac{N_{\text{In}}}{N_{\text{In}} + N_{\text{Out}}}$$
 - **Streamlined Evaluation:** Enhances research efficiency by automating the fusion index evaluation process.
-![Fig 10  SEPO-C](https://github.com/user-attachments/assets/22b89fdb-d967-4aef-9240-cdede2c39907)
+![SEPO_FI](https://github.com/user-attachments/assets/1f164373-149e-4405-a8c1-d720251c47c0)
+
 
 
 ## Installation
